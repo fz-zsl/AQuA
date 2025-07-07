@@ -7,7 +7,7 @@
     <a href='https://arxiv.org/abs/'>
       <img src='https://img.shields.io/badge/Paper-arXiv-green?style=plastic&logo=arXiv&logoColor=green' alt='Paper arXiv'>
     </a>
-    <a href='https://drive.google.com/drive/folders/=C?usp=share_link'>
+    <a href='https://drive.google.com/drive/folders/148fTyjCJW_fT3cs4_ju0pKrhZPV0YViu?usp=sharing'>
       <img src='https://img.shields.io/badge/Model-Checkpoints-orange?style=plastic&logo=Google%20Drive&logoColor=orange' alt='Checkpoints'>
     </a>
 </p>
