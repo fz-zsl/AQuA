@@ -16,7 +16,7 @@
 <p align="center">
   <a href='https://fz-zsl.github.io/'>Shengli Zhou</a>,
   <a href='http://www.csyangliu.com/'>Yang Liu</a>,
-  <a href='https://faculty.sustech.edu.cn/?tagid=fengzheng&iscss=1&snapid=1&orderby=date&go=2'>Feng Zheng</a>📧
+  <a href='https://www.sustech.edu.cn/en/faculties/zhengfeng.html'>Feng Zheng</a>📧
 </p>
 
 This repository is the official implementation of the ACM MM 2025 paper "Learn 3D VQA Better with Active Selection and Reannotation".
