@@ -1,10 +1,13 @@
 # AQuA: Learn 3D VQA Better with Active Selection and Reannotation
 
 <p align="center">
-    <a href='https://arxiv.org/pdf/.pdf'>
-      <img src='https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red' alt='Paper PDF'>
+    <a href='https://arxiv.org/pdf/2507.04630'>
+      <img src='https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=googledocs&logoColor=red' alt='Paper PDF'>
     </a>
-    <a href='https://arxiv.org/abs/'>
+    <a href='https://arxiv.org/html/2507.04630'>
+      <img src='https://img.shields.io/badge/Paper-HTML-blue?style=plastic&logo=html5&logoColor=blue' alt='Paper HTML'>
+    </a>
+    <a href='https://arxiv.org/abs/2507.04630'>
       <img src='https://img.shields.io/badge/Paper-arXiv-green?style=plastic&logo=arXiv&logoColor=green' alt='Paper arXiv'>
     </a>
     <a href='https://drive.google.com/drive/folders/148fTyjCJW_fT3cs4_ju0pKrhZPV0YViu?usp=sharing'>
@@ -93,5 +96,13 @@ We would like to thank the authors of [ScanQA](https://github.com/ATR-DBI/ScanQA
 If you find this project useful in your research, please consider citing:
 
 ```bib
-
+@misc{zhou2025learn3dvqabetter,
+      title={Learn 3D VQA Better with Active Selection and Reannotation}, 
+      author={Shengli Zhou and Yang Liu and Feng Zheng},
+      year={2025},
+      eprint={2507.04630},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.04630}, 
+}
 ```
