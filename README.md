@@ -96,13 +96,20 @@ We would like to thank the authors of [ScanQA](https://github.com/ATR-DBI/ScanQA
 If you find this project useful in your research, please consider citing:
 
 ```bib
-@misc{zhou2025learn3dvqabetter,
-      title={Learn 3D VQA Better with Active Selection and Reannotation}, 
-      author={Shengli Zhou and Yang Liu and Feng Zheng},
-      year={2025},
-      eprint={2507.04630},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2507.04630}, 
+@inproceedings{10.1145/3746027.3755515,
+    author = {Zhou, Shengli and Liu, Yang and Zheng, Feng},
+    title = {Learn 3D VQA Better with Active Selection and Reannotation},
+    year = {2025},
+    isbn = {9798400720352},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3746027.3755515},
+    doi = {10.1145/3746027.3755515},
+    booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+    pages = {4610–4618},
+    numpages = {9},
+    keywords = {3d visual question-answering, active learning, online learning},
+    location = {Dublin, Ireland},
+    series = {MM '25}
 }
 ```
