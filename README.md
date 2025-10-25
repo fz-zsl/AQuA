@@ -1,6 +1,9 @@
 # AQuA: Learn 3D VQA Better with Active Selection and Reannotation
 
 <p align="center">
+    <a href='https://dl.acm.org/doi/10.1145/3746027.3755515'>
+      <img src='https://img.shields.io/badge/Paper-ACM DL-black?style=plastic&logo=html5&logoColor=white' alt='Paper ACM DL'>
+    </a>
     <a href='https://arxiv.org/pdf/2507.04630'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=googledocs&logoColor=red' alt='Paper PDF'>
     </a>
