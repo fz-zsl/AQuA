@@ -4,6 +4,9 @@
     <a href='https://dl.acm.org/doi/10.1145/3746027.3755515'>
       <img src='https://img.shields.io/badge/Paper-ACM DL-black?style=plastic&logo=html5&logoColor=white' alt='Paper ACM DL'>
     </a>
+    <a href='https://dl.acm.org/doi/suppl/10.1145/3746027.3755515/suppl_file/mfp4217-video.mp4'>
+      <img src='https://img.shields.io/badge/Video-ACM DL-yellow?style=plastic&logo=googledisplayandvideo360&logoColor=white' alt='Video ACM DL'>
+    </a>
     <a href='https://arxiv.org/pdf/2507.04630'>
       <img src='https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=googledocs&logoColor=red' alt='Paper PDF'>
     </a>
